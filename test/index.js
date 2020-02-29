@@ -23,4 +23,4 @@ describe('npm version', function () {
       done()
     })
   })
-})
+}))
