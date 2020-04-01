@@ -55,7 +55,7 @@ As of this writing (8 July 2016), you should have Node.js v6.3.0 and npm v3.10.x
 
 As you work with different Node.js projects, you'll find that you need to change versions from time to time. There are many version managers available for Node.js, such as [nvm](https://github.com/creationix/nvm), or even virtual environment managers like [nave](https://github.com/isaacs/nave).
 
-We prefer to use [n](https://github.com/visionmedia/n). To get started, simply run
+We prefer to use [n](https://github.com/visionmedia/n). To get started, simply run:
 
 ```
 npm install -g n
